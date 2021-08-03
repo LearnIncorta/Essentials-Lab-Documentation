@@ -1,4 +1,4 @@
-#Creating a Data Source
+# Creating a Data Source
 Now that you are signed in as the **myAdmin** user, you are ready to create a new Data Source, ds_AdvWorks.
 
 
@@ -13,7 +13,7 @@ Now that you are signed in as the **myAdmin** user, you are ready to create a ne
 - Connection String = jdbc:mysql://127.0.0.1:3306/adventureworks
 - To test, select Test Connection, verify the successful connection, and then select Ok.
 
-##Share the Data Source
+## Share the Data Source
 In Incorta, sharing controls permission access to an object such as a Data Source.  The following animations details how to share the resource with two groups: grp_Admins and grp_Developers. The direct instruction follows below.
 
 - In  Data, in External Data Sources, select **ds_AdvWorks** row.
