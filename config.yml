@@ -4,7 +4,7 @@ classes:
   - exercises:
       # `file` is relative to .strigo directory
       - file: "./test.md"
-        title: "Hello!"
+        title: "Demo"
 
 # Class exercises - configuration for multiple classes
 # ---
