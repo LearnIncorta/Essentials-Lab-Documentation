@@ -1,0 +1,8 @@
+#Tour 1
+Before you ingest data into Incorta, you must:
+
+Create a Data Source
+Create a Schema
+A data source is typically a connection to a database, data warehouse, software-as-service, file share service, or similar data application.  A data source can also be a Data File.
+
+In this first segment of the Guided Tour, you will create a Data Source.
