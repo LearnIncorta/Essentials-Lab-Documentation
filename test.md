@@ -1,4 +1,4 @@
-Section Header
+Demo
 ==================
 This is a demo
 1) Step 1
