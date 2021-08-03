@@ -1,5 +1,7 @@
 classes:
   - exercises:
       # `file` is relative to .strigo directory
-      - file: "../Essentials-Course/tour-1.md"
+      - file: "../Essentials-Course/t1-creating-a-datasource.md"
         title: "Creating a Data Source"
+      - file: "../Essentials-Course/t1-sharing_datasource.md"
+        title: "Sharing a Data Source"
