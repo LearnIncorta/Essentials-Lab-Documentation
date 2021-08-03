@@ -1,7 +1,5 @@
 classes:
   - exercises:
       # `file` is relative to .strigo directory
-      - file: "../hello-world/hello.md"
-        title: "Hello!"
-      - file: "../hello-world/world.md"
-        title: "World!"
+      - file: "../Essentials-Course/Tour1.md"
+        title: "Markdown"
