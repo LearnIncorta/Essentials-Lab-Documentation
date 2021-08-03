@@ -1,6 +1,7 @@
 # Creating a Data Source
 Now that you are signed in as the **myAdmin** user, you are ready to create a new Data Source, ds_AdvWorks.
 
+![lab1_dataconnection](https://user-images.githubusercontent.com/88396853/128071885-b332d897-6099-446f-9082-83f194fa9e1f.gif)![lab1_sharing_connections](https://user-images.githubusercontent.com/88396853/128071938-30b32d5b-0bc3-4ffa-8415-bb6316eae276.gif)
 
 - In the Navigation bar, select **Data**. 
 - In the Actions bar, select **+New**. 
@@ -15,7 +16,7 @@ Now that you are signed in as the **myAdmin** user, you are ready to create a ne
 
 ## Share the Data Source
 In Incorta, sharing controls permission access to an object such as a Data Source.  The following animations details how to share the resource with two groups: grp_Admins and grp_Developers. The direct instruction follows below.
-
+![lab1_sharing_connections](https://user-images.githubusercontent.com/88396853/128071951-7d180891-9653-489b-9702-196d2489342a.gif)
 - In  Data, in External Data Sources, select **ds_AdvWorks** row.
   - For the row, select the **Sharing** icon.
 - In the Share dialog, in With, for Search names, emails, and groups, first enter grp, then select **grp_Admins**.
