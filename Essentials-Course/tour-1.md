@@ -1,7 +1,7 @@
 # Creating a Data Source
 Now that you are signed in as the **myAdmin** user, you are ready to create a new Data Source, ds_AdvWorks.
 
-![lab1_dataconnection](https://user-images.githubusercontent.com/88396853/128071885-b332d897-6099-446f-9082-83f194fa9e1f.gif)![lab1_sharing_connections](https://user-images.githubusercontent.com/88396853/128071938-30b32d5b-0bc3-4ffa-8415-bb6316eae276.gif)
+![lab1_dataconnection](https://user-images.githubusercontent.com/88396853/128071885-b332d897-6099-446f-9082-83f194fa9e1f.gif)
 
 - In the Navigation bar, select **Data**. 
 - In the Actions bar, select **+New**. 
